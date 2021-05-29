@@ -5,6 +5,7 @@
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass -o css/ css/",
     "start": "npm run lite",
     "lite": "lite-server"
   },
@@ -19,7 +20,8 @@
   },
   "homepage": "https://github.com/chillbroskie/project#readme",
   "devDependencies": {
-    "lite-server": "^2.6.1"
+    "lite-server": "^2.6.1",
+    "node-sass": "^4.14.1"
   },
   "dependencies": {
     "bootstrap": "^4.5.2",
