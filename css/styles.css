@@ -1,6 +1,6 @@
 body {
   font-family: "Open Sans", sans-serif;
-  background-color: #545e75; }
+  background-color: #4a5c85; }
 
 h1, h2, h3 {
   font-family: "Lobster", cursive; }
@@ -9,10 +9,10 @@ h2 {
   color: #304D6D; }
 
 header h2 {
-  color: #CEC8FF; }
+  color: #2c15db; }
 
 .site-footer {
-  background-image: linear-gradient(#CEC8FF, white);
+  background-image: linear-gradient(#2c15db, white);
   padding: 20px 0; }
 
 .jumbotron {
